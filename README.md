@@ -1,1 +1,1 @@
-My first javascript projects - published on github.
+A few of my initial JavaScript projects - published on GitHub.
