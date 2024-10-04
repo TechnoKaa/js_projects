@@ -1,1 +1,1 @@
-A few of my initial JavaScript projects - published on GitHub.
+This repository contains a collection of JavaScript projects I’ve built while participating in Wes Bos' 30 Days Vanilla JavaScript Challenge. These projects focus on enhancing my understanding of core JavaScript concepts, DOM manipulation, and interactivity without relying on frameworks or libraries. Each project offers a hands-on approach to learning and improving my coding skills.
